@@ -1,0 +1,20 @@
+body {
+    font-family: sans-serif;
+}
+h1 {
+    background: lightgray;
+    text-align: center;
+}
+ul {
+    list-style: url(https://ltdfoto.ru/images/2024/06/07/1681109675_pictures-pibig-info-p.png);
+    margin-left: 20px; 
+    }
+    header a {
+        background-color: orange;
+        border-radius: 5px;
+        padding: 5px;
+        color: black;
+    }
+    header {
+        margin-bottom: 20px;
+    }
